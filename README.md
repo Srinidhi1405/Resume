@@ -19,7 +19,7 @@ _High School (Classes X–XII)_
 ---
 ## 💼 Experience
 **Embedded System Design Intern** — Maven Silicon
-Jan 2025 – Mar 2025
+  Jan 2025 – Mar 2025
 - Developed embedded firmware and hardware interfacing for a women’s safety alert system.
 - Worked on microcontroller-based system design, sensor interfacing, and real-time response logic.
 - Strengthened skills in embedded C programming and system-level debugging.
